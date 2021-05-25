@@ -1,4 +1,4 @@
-## Dapper Labs - Auth Service
+## Auth Service
 
 *Contact: Email nick@dhupia.org for any questions. Please note that none of the **credentials** in the git repo are for production use and are provided for convenience only. You must replace these **credentials** with your own **unless** using for demo/eval purposes only.*
 
@@ -8,7 +8,7 @@
 
 
 **Simply run:**
-- `git clone git@github.com:axiomzen/cc_NickDhupia_BackendAPI.git` clone the repo
+- `git clone git@github.com:xoraes/authservice.git` clone the repo
 - `docker-compose up --build --remove-orphans` to bring up the app cleanly
 - `docker-compose down` to shutdown and cleanup the app
 
